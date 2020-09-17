@@ -1,0 +1,40 @@
+TODO
+
+- check parameter ranges - better defaults?
+
+- make the main play button a react button?
+    - have the main button update the history list in real time
+
+- triggered history via hotkey
+
+- other hotkeys
+
+- have the history select grey out text when it isnt the target
+for speaking?
+
+- drawer footer css - stick to bottom all of the time
+    - if window starts small and grows, footer doesnt move
+    - if window starts big and shrinks, footer moves in both
+      directions
+
+- generate data for audio composition from tweet data
+    - store remotely
+- audio composition
+- more post processing?
+- longer videos, better videos?
+    - retrieve videos from remote storage?
+
+- UI for info about project
+
+- help drawer?
+
+- test tts api on different platforms
+
+- TENSOR FLOW
+
+- hover over letters and use keys to play?
+- click on words?
+
+
+- change video to agnostic face?
+- have different personalities that can be loaded from twitter
