@@ -13,5 +13,7 @@ one day dumpbott will also make a lot of silly sounds
 like a silly musical instrument
 
 dumpbott might work [here](https://uxkkw.csb.app/)
+
+it might not so here's [a short demo video](https://77rx4.csb.app/)
  
 [![forthebadge](https://forthebadge.com/images/badges/fuck-it-ship-it.svg)](https://forthebadge.com)
